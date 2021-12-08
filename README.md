@@ -3,14 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizado desde GitHub
-Este es un mensaje editado completamente desde GitHub
-
-### Nuevo cambio desde GitHub...
-Este nuevo cambio se vio afectado desde GitHub.
-
-## Hola mundo
-comentario para config pull.ff (fast forward)
+## Estos cambios son nuevos
+Nuevos cambios de manera local.
