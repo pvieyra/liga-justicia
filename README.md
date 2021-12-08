@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Este es un mensaje editado completamente desde GitHub
+
+### Nuevo cambio desde GitHub...
+Este nuevo cambio se vio afectado desde GitHub.
